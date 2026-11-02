@@ -100,4 +100,8 @@ Delta AFB1212HHE pinout · Apple 607-3433 fan wiring · AFB1212HHE 12V power · 
 ## Attribution & license
 Experimental research and documentation: **Infuso Giovanni** — see [ATTRIBUTION.md](ATTRIBUTION.md).
 
-Documentation, original photos and the technical report are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — © 2026 Infuso Giovanni. Full text: [LICENSE](LICENSE).
+Copyright (c) 2026 Infuso Giovanni.
+
+Documentation, original photos and the technical report are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Full legal code: [LICENSE](LICENSE). Attribution required: "Infuso Giovanni".
+
+Scope: this license applies to the original documentation in this repository (README.md, ATTRIBUTION.md), the original photographs in photos/ taken by Infuso Giovanni, and the technical report in docs/. It does not grant any rights in third-party trademarks (Apple, Delta Electronics, ROHM), which belong to their respective owners.
