@@ -98,4 +98,6 @@ Prova sperimentale, non certificata da Apple, Delta o ROHM. Non superare 12 V, n
 Delta AFB1212HHE pinout · Apple 607-3433 fan wiring · AFB1212HHE 12V power · Delta Apple Mac Pro fan 4 pin · AFB1212HHE VCC VM GND O/P · Apple Delta fan external power supply · Delta AFB1212HHE reverse engineering · Delta Apple fan not spinning · Mac Pro fan reuse · Alimentare ventola Delta Apple 607-3433
 
 ## Attribution & license
-Experimental research and documentation: **Infuso Giovanni** — see [ATTRIBUTION.md](ATTRIBUTION.md). License: **CC BY 4.0 proposed, pending author approval** — see [LICENSE](LICENSE).
+Experimental research and documentation: **Infuso Giovanni** — see [ATTRIBUTION.md](ATTRIBUTION.md).
+
+Documentation, original photos and the technical report are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — © 2026 Infuso Giovanni. Full text: [LICENSE](LICENSE).
